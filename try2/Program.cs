@@ -10,6 +10,7 @@ namespace try2
     {
         static void Main(string[] args)
         {
+            //khawla harb
             Console.WriteLine("khawla");
             Console.ReadKey();
         }
